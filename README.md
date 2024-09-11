@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **SQL,Excel**
 
-- 📝 I regularly write articles on [Tübitak 2209A]
-
 - ⚡ Fun fact **i like listening Taylor Swift**
 
 <h3 align="left">Connect with me:</h3>
