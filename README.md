@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ezgi</h1>
 <h3 align="center">electrical electronics engineer</h3>
 
-- 🔭 I’m currently working on **motor driver, model satallite, air defence and communication**
+- 🔭 I’m currently working on **antenna, RF and communication**
 
 - 🌱 I’m currently learning **SQL,Excel**
 
