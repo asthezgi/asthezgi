@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **antenna, RF and communication**
 
-- 🌱 I’m currently learning **SQL,Excel**
+- 🌱 I’m currently learning **SQL, Ansys**
 
 - ⚡ Fun fact **i like listening Taylor Swift**
 
